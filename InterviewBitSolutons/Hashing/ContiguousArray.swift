@@ -41,7 +41,7 @@
 
 import Foundation
 
-class Solution {
+class ContiguosArray {
     func solve(_ A: inout [Int]) -> Int {
 
         var ans = 0

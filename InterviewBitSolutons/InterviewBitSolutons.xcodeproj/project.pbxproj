@@ -15,6 +15,7 @@
 		0EEB59A4276EF1C4001B3603 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EEB5991276EF1C3001B3603 /* Assets.xcassets */; };
 		0EEB59AF276EF1F8001B3603 /* Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB59AE276EF1F8001B3603 /* Anagrams.swift */; };
 		0EEB59B1276EF235001B3603 /* ContiguousArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB59B0276EF235001B3603 /* ContiguousArray.swift */; };
+		0EEB59B3276F56EC001B3603 /* Diffk||.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB59B2276F56EC001B3603 /* Diffk||.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0EEB599E276EF1C4001B3603 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		0EEB59AE276EF1F8001B3603 /* Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anagrams.swift; sourceTree = "<group>"; };
 		0EEB59B0276EF235001B3603 /* ContiguousArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContiguousArray.swift; sourceTree = "<group>"; };
+		0EEB59B2276F56EC001B3603 /* Diffk||.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Diffk||.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				0EEB59AE276EF1F8001B3603 /* Anagrams.swift */,
 				0EEB59B0276EF235001B3603 /* ContiguousArray.swift */,
+				0EEB59B2276F56EC001B3603 /* Diffk||.swift */,
 			);
 			path = Hashing;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EEB59B3276F56EC001B3603 /* Diffk||.swift in Sources */,
 				0EEB59AF276EF1F8001B3603 /* Anagrams.swift in Sources */,
 				0EEB59A1276EF1C4001B3603 /* ContentView.swift in Sources */,
 				0EEB599F276EF1C4001B3603 /* InterviewBitSolutonsApp.swift in Sources */,
