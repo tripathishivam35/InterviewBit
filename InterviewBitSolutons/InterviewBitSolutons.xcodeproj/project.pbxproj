@@ -16,6 +16,7 @@
 		0EEB59AF276EF1F8001B3603 /* Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB59AE276EF1F8001B3603 /* Anagrams.swift */; };
 		0EEB59B1276EF235001B3603 /* ContiguousArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB59B0276EF235001B3603 /* ContiguousArray.swift */; };
 		0EEB59B3276F56EC001B3603 /* Diffk||.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB59B2276F56EC001B3603 /* Diffk||.swift */; };
+		0EEB59B5276FA980001B3603 /* Hoteloccurances.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB59B4276FA980001B3603 /* Hoteloccurances.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		0EEB59AE276EF1F8001B3603 /* Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anagrams.swift; sourceTree = "<group>"; };
 		0EEB59B0276EF235001B3603 /* ContiguousArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContiguousArray.swift; sourceTree = "<group>"; };
 		0EEB59B2276F56EC001B3603 /* Diffk||.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Diffk||.swift"; sourceTree = "<group>"; };
+		0EEB59B4276FA980001B3603 /* Hoteloccurances.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hoteloccurances.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				0EEB59AE276EF1F8001B3603 /* Anagrams.swift */,
 				0EEB59B0276EF235001B3603 /* ContiguousArray.swift */,
 				0EEB59B2276F56EC001B3603 /* Diffk||.swift */,
+				0EEB59B4276FA980001B3603 /* Hoteloccurances.swift */,
 			);
 			path = Hashing;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 			files = (
 				0EEB59B3276F56EC001B3603 /* Diffk||.swift in Sources */,
 				0EEB59AF276EF1F8001B3603 /* Anagrams.swift in Sources */,
+				0EEB59B5276FA980001B3603 /* Hoteloccurances.swift in Sources */,
 				0EEB59A1276EF1C4001B3603 /* ContentView.swift in Sources */,
 				0EEB599F276EF1C4001B3603 /* InterviewBitSolutonsApp.swift in Sources */,
 				0EEB59B1276EF235001B3603 /* ContiguousArray.swift in Sources */,
