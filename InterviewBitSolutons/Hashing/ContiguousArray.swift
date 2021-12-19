@@ -1,3 +1,10 @@
+//
+//  ContiguousArray.swift
+//  InterviewBitSolutons (iOS)
+//
+//  Created by Shivam Tripathi on 19/12/21.
+//
+
 /*
  Given an array of integers A consisting of only 0 and 1.
 

@@ -1,3 +1,10 @@
+//
+//  Anagrams.swift
+//  InterviewBitSolutons (iOS)
+//
+//  Created by Shivam Tripathi on 19/12/21.
+//
+
 /* Interview bit problem solution :
 
  Problem Description
